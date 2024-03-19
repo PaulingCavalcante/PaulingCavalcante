@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Seja bem vindo(a) ao meu perfil do GitHub!</h1>
+<h1 align="center">Olá 👋, Seja bem vindo(a) ao meu perfil!</h1>
 
 <!--
 **PaulingCavalcante/PaulingCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
