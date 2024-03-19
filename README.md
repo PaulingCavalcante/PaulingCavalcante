@@ -1,4 +1,4 @@
-### Olá, eu sou o Paulo Cavalnte! Seja bem vindo ao meu perfil do GitHub!👋
+<h1 align="center">Olá 👋, Seja bem vindo(a) ao meu perfil do GitHub!</h1>
 
 <!--
 **PaulingCavalcante/PaulingCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-##
- 
 <h3>🌠Github Stats:</h3>
   
 <div>
