@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   
 <div>
   <a href="[https://github.com/paulingcavalcante](https://github.com/paulingcavalcante)"> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Garoze&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Garoze&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaulingCavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaulingCavalcante&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <br>
