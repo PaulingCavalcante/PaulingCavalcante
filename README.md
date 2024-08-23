@@ -1,51 +1,49 @@
-<h1 align="center">Olá 👋, Seja bem vindo(a) ao meu perfil!</h1>
-
-<!--
-**PaulingCavalcante/PaulingCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3>🌠Github Stats:</h3>
-  
-<div>
-  <a href="[https://github.com/paulingcavalcante](https://github.com/paulingcavalcante)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PaulingCavalcante&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulingCavalcante&layout=compact&langs_count=16&theme=holi&include_all_commits=true"/>
-</div>
-
+<h1 align="center">Olá 👋, Seja bem-vindo(a) ao meu perfil!</h1>
 <br>
-    
 
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />      
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+Sou um programador apaixonado por desenvolvimento de software e sempre estou buscando aprender algo novo. Atualmente, estou explorando novas tecnologias e aprimorando minhas habilidades em várias áreas.
 
- ## 
+**Sobre Mim:**
+- Estou desenvolvendo [SeuProjeto](https://github.com/PaulingCavalcante/SeuProjeto), um projeto que visa melhorar minha compreensão de [tecnologia específica].
+- Sinta-se à vontade para me perguntar qualquer coisa; se eu não souber a resposta, podemos buscar juntos!
 
-<div style="display: inline_block"> 
-  <h3>Contacte-me:</h3>
-  <a href = "mailto:ph.doamaralcavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-do-amaral-cavalcante-a0082422a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5511988281609?text=Olá, Paulo!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
+**Hobbies e Interesses:**
+- Programação de baixo nível;
+- Projetos de código aberto;
+- Desenvolvimento web;
+- Jogos antigos e emuladores;
+- Blockchain e criptomoedas;
 
-##
+**Linguagens e Ferramentas:**<br>
+* `Principais:`<br><br>
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* `Web:`<br><br>
+    ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* `Outros:`<br><br>
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<details>
+  <summary>Estatísticas do GitHub</summary>
+<div>
+  <a href="https://github.com/PaulingCavalcante">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulingCavalcante&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulingCavalcante&layout=compact&langs_count=8&theme=gruvbox"/>
+<div>
+</details>
 
+**Contato:**
+- 📧 [E-mail](mailto:ph.doamaralcavalcante@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-do-amaral-cavalcante-a0082422a/)
+- 📱 [WhatsApp](https://wa.me/5511988281609?text=Olá, Paulo!)
+
+---
+
+<img src="https://imgur.com/rilHVxA.png"/>
