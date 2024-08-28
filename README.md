@@ -32,7 +32,9 @@ Here are some ideas to get you started:
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
- ## 
+
+<hr>
+
 <div style="display: inline_block"> 
   <h3>Contacte-me:</h3>
   <a href = "mailto:ph.doamaralcavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
