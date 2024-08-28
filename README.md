@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<hr>
+ ## 
 
 <div style="display: inline_block"> 
   <h3>Contacte-me:</h3>
