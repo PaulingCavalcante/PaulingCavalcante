@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 <h3>🌠Github Stats:</h3>
   
 <p align="center" flex-direction="column">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulingcavalcante&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&rank_icon=github" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulingcavalcante&layout=compact&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86" />
+under maintenance...
 </p>
 
 <h3>👨‍💻Technologies:</h3>    
