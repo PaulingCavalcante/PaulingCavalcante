@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Welcome to my profile!</h1>
+<h1 align="center">Hey 👋, welcome to my profile!</h1>
 <!--
 **PaulingCavalcante/PaulingCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
