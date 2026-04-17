@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, Seja bem-vindo(a) ao meu perfil!</h1>
 <h3 align="center">Estudante IFSP | Dev Full Stack & Inovação</h3>
-<br>
 
 Sou um programador apaixonado por desenvolvimento de software e sempre estou buscando aprender algo novo. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no IFSP** e atuando com inovação, automação de processos e desenvolvimento Full Stack.
 
@@ -51,5 +50,3 @@ Sou um programador apaixonado por desenvolvimento de software e sempre estou bus
   <a href="https://wa.me/5511988281609?text=Olá%20Paulo!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href = "mailto:ph.doamaralcavalcante@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/paulo-henrique-do-amaral-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
 ---
-
-<!-- <img src="https://imgur.com/rilHVxA.png"/> -->
