@@ -35,6 +35,11 @@ Sou um programador apaixonado por desenvolvimento de software e sempre estou bus
 <details>
   <summary>📊 Estatísticas do GitHub</summary>
   <div>
+  <img 
+    width="420"
+    src="https://streak-stats.demolab.com/?user=PaulingCavalcante&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" 
+    alt="GitHub Streak"
+  />
     <a href="https://github.com/PaulingCavalcante">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulingCavalcante&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulingCavalcante&layout=compact&langs_count=8&theme=gruvbox"/>
     </a>
