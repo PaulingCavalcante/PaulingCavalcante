@@ -40,12 +40,11 @@ I'm constantly seeking to deepen my knowledge and explore new tools that can imp
 <details>
   <summary>📊 GitHub Stats</summary>
   <div align="left">
-  <div style="background-color: #fff; width: 100%;">
    <img 
     width="420"
-    src="https://streak-stats.demolab.com/?user=PaulingCavalcante&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
+    src="https://streak-stats.demolab.com/?user=PaulingCavalcante&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
     alt="GitHub Streak"
-  /></div><br>
+  /><br>
     <a href="https://github.com/PaulingCavalcante">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulingCavalcante&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulingCavalcante&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117"/>
