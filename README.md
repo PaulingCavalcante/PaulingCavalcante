@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:0d1117&height=160&section=header" />
 <h1 align="center">Hey 👋, Welcome to my profile!</h1>
  
 <h3 align="center">IFSP Student | Full Stack Dev & Innovation</h3>
@@ -66,5 +67,4 @@ I'm constantly seeking to deepen my knowledge and explore new tools that can imp
   <a href = "mailto:ph.doamaralcavalcante@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/paulo-henrique-do-amaral-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=120&section=footer)
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:000000&height=120&section=footer" />
