@@ -41,7 +41,7 @@ I'm constantly seeking to deepen my knowledge and explore new tools that can imp
   <summary>📊 GitHub Stats</summary>
   <div align="left">
    <img 
-    width="500"
+    height="180"
     src="https://streak-stats.demolab.com/?user=PaulingCavalcante&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
     alt="GitHub Streak"
   /><br>
