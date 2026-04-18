@@ -6,7 +6,7 @@
  
 Graduated in Systems Development from Etec and currently studying Systems Analysis and Development at IFSP. I'm a developer passionate about technology, working as a Full Stack developer with a strong focus on automation and Artificial Intelligence.
  
-I work in the innovation area applying AI adoption strategies, process automation with tools like n8n, and ERP data analysis — always looking to build solutions that connect technology and real business needs. On the development side, I work across the full stack with Java, Spring Boot, Flutter, Python and more.
+I work in the innovation area applying AI adoption strategies and process automation, always looking to build solutions that connect technology and real business needs. On the development side, I work across the full stack with Java, React, Spring Boot, PHP, Python and more.
  
 I'm constantly seeking to deepen my knowledge and explore new tools that can improve the way I build and ship software.
  
