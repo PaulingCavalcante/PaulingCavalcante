@@ -21,7 +21,8 @@ I'm constantly seeking to deepen my knowledge and explore new tools that can imp
 - Continuous learning & self-improvement;
 - Linux and open systems;
 - Artificial Intelligence & automation;
-- Data science;
+- Data Science;
+- System Design;
 - Volleyball;
 - RPG;
   
